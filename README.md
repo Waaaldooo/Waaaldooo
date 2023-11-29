@@ -1,4 +1,4 @@
-# ¿Quién soy?
+# ¿Quién soy? 🤔
 
 Mi nombre es Waldo, una persona que quiere aprender a programar. 😁
 
